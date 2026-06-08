@@ -1,4 +1,40 @@
 h1{
 
     color:pink;
+
+    font-size : 100px
+}
+
+
+#MySpecialElement
+
+{
+
+color: red;
+font-size: 50px;
+
+
+
+}
+
+#MyElement
+
+{
+
+    color:green
+}
+
+.one
+{
+
+color: blue 
+
+
+}
+
+
+.five
+{
+    color:blue;
+    font-size : 10px;
 }
